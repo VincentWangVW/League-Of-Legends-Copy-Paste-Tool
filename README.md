@@ -9,7 +9,7 @@ Download and run main.py
 
 ## Preview
 
-![League Of Legends Copy Paste Tool](https://imgur.com/gallery/bNExWFV)
+![League Of Legends Copy Paste Tool](https://i.imgur.com/E4GQHOK.png)
 
 ## Contributing
 
