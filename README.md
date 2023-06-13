@@ -5,7 +5,7 @@ However this program allows you to copy paste messages into LOL such as copypast
 
 ## Setup and Usage
 
-Download and run main.py
+Download requirements.txt and run main.py
 
 ## Preview
 
